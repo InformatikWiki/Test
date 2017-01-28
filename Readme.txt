@@ -1,3 +1,4 @@
 Test
 New
+middle
 Test
